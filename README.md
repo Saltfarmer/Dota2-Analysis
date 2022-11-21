@@ -9,3 +9,11 @@ Python Library:
 - Pandas
 - Matplotlib
 - Seaborn
+
+## Step
+- Get data
+- Visualization
+- Training
+- Validation
+- Checking feature importance
+- Analysis
